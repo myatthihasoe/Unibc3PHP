@@ -14,3 +14,7 @@
      <!-- only one variable  -->
 </div>
 
+<?php
+echo (20 == "20") ? "equals": "not equals"; echo "<br>";
+echo (20 === "20") ? "equals": "not equals"; 
+
