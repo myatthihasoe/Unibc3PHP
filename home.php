@@ -13,6 +13,11 @@
     # variables are not printed, just print as strings
     echo '<h2>$age, $price, $name, $check</h2>';
 ?>
-<?php
 
-?>
+<!-- Naming Standard -->
+<!-- name (lower case) -->
+<!-- NAME (uppercase) -->
+<!-- Name (parscel case) -->
+<!-- my_name (snake case) -->
+<!-- myName  (Camel case) -->
+
