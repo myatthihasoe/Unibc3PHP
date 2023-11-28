@@ -16,5 +16,8 @@
 
 <?php
 echo (20 == "20") ? "equals": "not equals"; echo "<br>";
-echo (20 === "20") ? "equals": "not equals"; 
+echo (20 === (int)
+"20") ? "equals": "not equals"; 
+?>
 
+<!-- Slide 69,70,71,72 > Homework -->
