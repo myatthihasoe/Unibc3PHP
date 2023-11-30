@@ -6,4 +6,9 @@
     print_r($arrays1); //for compound
     echo $arrays1[0]; //for display scalar
     print_r($arrays2[0]);
+
+
 ?>
+<br>
+<button id="myBtn">Click</button>
+<script src="myScript.js"></script>
